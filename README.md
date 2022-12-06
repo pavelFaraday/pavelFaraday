@@ -1,4 +1,4 @@
-![Fulltack Web Developer](https://github.com/pavelFaraday/pavelFaraday/blob/master/1_V7jiZvQBIwUhUY_9VU8Jqg.jpeg)
+![Fulltack Web Developer](https://github.com/pavelFaraday/pavelFaraday/edit/master/README.md)
 
 <img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
