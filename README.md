@@ -5,7 +5,7 @@
 # Hi there 👋, I am Giorgi Epitashvili
 ## Fullstack Web Developer
 
-I have expert knowledge and experience in building complex, modern and responsive friendly websites. I work in [MC-Zero.one](https://mc-zero.one/) I really enjoy learning languages and frameworks like React and Laravel, as well as work in WordPress. You can get acquainted with the experience and additional projects gained in Web development through my GitHub profile 🤲
+I have expert knowledge and experience in building complex, modern and responsive friendly websites. I work in [mc-zero.one](https://mc-zero.one/) as Full Stack Web Developer & develop fully fledged platforms. I really enjoy learning languages and frameworks like React and Laravel, as well as work in WordPress. You can get acquainted with the experience and additional projects gained in Web development through my GitHub profile & [Company Website](https://mc-zero.one/porfolio/) 🤲
 
 ### Skills & Experiences: 
 * PHP 💾 
