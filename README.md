@@ -148,6 +148,4 @@ I have been with expert knowledge and experience in building complex, modern and
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>  <br>
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **devstudio.corp@gmail.com**
 
