@@ -10,5 +10,8 @@ I have been with expert knowledge and experience in building complex, modern and
 * REACT ⚛️
 * HTML / CSS / JS / JQUERY / BOOTSTRAP 💻
 
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning Laravel
+
+### Github Statistics:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelFaraday)](https://github.com/anuraghazra/github-readme-stats)
 
