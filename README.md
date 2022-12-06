@@ -8,14 +8,12 @@ I have been with expert knowledge and experience in building complex, modern and
 ### Skills & Experiences: 
 * PHP 💾 
 * REACT ⚛️
-* HTML / CSS / JS / JQUERY / BOOTSTRAP 💻
+* HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS 💻
 
 - 🌱 I’m currently learning Laravel
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="pavelfaraday" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavelfaraday" alt="pavelfaraday" /></a> </p>
 
 <p align="left"></p>
 
