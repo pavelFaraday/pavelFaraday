@@ -148,6 +148,6 @@ I have been with expert knowledge and experience in building complex, modern and
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pavelfaraday&show_icons=true&locale=en" alt="pavelfaraday" /></p> 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>  <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>  <br>
 
 
