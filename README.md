@@ -1,6 +1,6 @@
 ![Fulltack Web Developer](https://github.com/pavelFaraday/pavelFaraday/blob/master/1_V7jiZvQBIwUhUY_9VU8Jqg.jpeg)
 
-![ggg]([https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2TPiVq6dfZahLTzbAW1Pam&ust=1670417844815000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjEvMSF5fsCFQAAAAAdAAAAABAE))
+![ggg](https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2TPiVq6dfZahLTzbAW1Pam&ust=1670417844815000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjEvMSF5fsCFQAAAAAdAAAAABAE)
 
 # Hi there 👋, I am Giorgi Epitashvili
 ## Fullstack Web Developer
