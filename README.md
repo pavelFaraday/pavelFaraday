@@ -1,6 +1,6 @@
 ![Fulltack Web Developer](https://github.com/pavelFaraday/pavelFaraday/blob/master/1_V7jiZvQBIwUhUY_9VU8Jqg.jpeg)
 
-![ggg](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="">
 
 # Hi there 👋, I am Giorgi Epitashvili
 ## Fullstack Web Developer
