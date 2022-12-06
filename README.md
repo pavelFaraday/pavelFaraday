@@ -6,7 +6,9 @@
 I have been with expert knowledge and experience in building complex, modern and responsive friendly websites. I really enjoy learning languages and frameworks like React and Laravel, as well as work in WordPress. You can get acquainted with the experience and additional projects gained in Web development through my GitHub profile 🤲
 
 #### Skills & Experiences: 
-PHP / REACT / JS /  JQUERY / BOOTSTRAP / HTML / CSS
+* PHP 💾 
+* REACT ⚛️
+* HTML / CSS / JS / JQUERY / BOOTSTRAP 💻
 
 - 🌱 I’m currently learning Laravel 
 
