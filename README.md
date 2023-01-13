@@ -9,7 +9,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 
 ### Skills & Experiences: 
 * PHP 💾 
-* REACT / REDUX ⚛️
+* REACT / Context API / REDUX ⚛️
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Tailwind 💻
 
 - 🌱 I’m currently learning Laravel
