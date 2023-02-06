@@ -8,8 +8,9 @@
 I have expert knowledge and experience in building complex, modern and responsive friendly websites. I work in [MC-ZERO.ONE](https://mc-zero.one/) as Full Stack Web Developer & develop fully fledged platforms. I really enjoy learning languages and frameworks like React and Laravel, as well as work in WordPress. You can get acquainted with the experience and additional projects gained in Web development through my GitHub profile & [Company Website](https://mc-zero.one/porfolio/) 🤲
 
 ### Skills & Experiences: 
-* PHP 💾 
+
 * REACT / Context API / REDUX ⚛️
+* PHP 💾 
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Tailwind 💻
 
 - 🌱 I’m currently learning Laravel
