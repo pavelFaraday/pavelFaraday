@@ -1,5 +1,4 @@
 ![Fulltack Web Developer](https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif)
-![Fulltack Web Developer](https://opensource.com/sites/default/files/uploads/react.gif)
 
 
 
