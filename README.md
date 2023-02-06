@@ -1,4 +1,4 @@
-![Fulltack Web Developer](https://opensource.com/sites/default/files/uploads/react.gif)
+![Fulltack Web Developer](https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif)
 
 <img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
