@@ -15,8 +15,6 @@ I have expert knowledge and experience in building complex, modern and responsiv
 * PHP 💾 
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Tailwind 💻
 
-- 🌱 I’m currently learning Laravel
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="pavelfaraday" /> </p>
 
