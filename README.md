@@ -152,6 +152,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 			height="40"
 		/>
 	</a>
+	<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </p>
 
 
