@@ -1,4 +1,4 @@
-![Fulltack Web Developer](https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif)
+![Fulltack Web Developer](https://miro.medium.com/v2/resize:fit:1400/0*YJuvTixhSq-JppKv)
 
 
 
