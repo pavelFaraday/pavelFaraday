@@ -13,7 +13,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 
 * REACT / Context API / REDUX / REDUX Toolkit ⚛️
 * PHP 💾 
-* HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Tailwind 💻
+* HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / MUI 💻
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="pavelfaraday" /> </p>
