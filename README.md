@@ -11,7 +11,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 
 ### Skills & Experiences: 
 
-* REACT / Context API / REDUX / REDUX Toolkit ⚛️
+* REACT / Context API / REDUX / REDUX Toolkit / Next.js / TypeScript ⚛️
 * PHP 💾 
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Material UI 💻
 
