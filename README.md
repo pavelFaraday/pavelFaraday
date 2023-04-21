@@ -15,6 +15,14 @@ I have expert knowledge and experience in building complex, modern and responsiv
 * PHP / MySQL 💾 
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Material UI 💻
 
+### [Certifications](https://github.com/pavelFaraday/Certifications):
+
+- freecodecamp.org - Responsive Web Design
+- freecodecamp.org - Javascript Algorithms & Data Structures
+- freecodecamp.org - Front End Development Libraries
+- udemy.com - React Complete Guide (by Maximilian Schwarzmüller)
+- udemy.com - PHP for Beginners with CMS Project (by Edwin Diaz)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="pavelfaraday" /> </p>
 
