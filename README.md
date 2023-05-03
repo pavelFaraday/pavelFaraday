@@ -172,8 +172,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 		/>
 	</a>
 	<a href="https://mobx.js.org/README.html" target="_blank" rel="noreferrer">
-		<img
-			src="[https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://camo.githubusercontent.com/0dc3b9afa37acc792f49624b1f8dd364b55c9107167fd291ffde1d81917aceba/68747470733a2f2f6d6f62782e6a732e6f72672f6173736574732f6d6f62782e706e67)"
+		<img src="https://camo.githubusercontent.com/0dc3b9afa37acc792f49624b1f8dd364b55c9107167fd291ffde1d81917aceba/68747470733a2f2f6d6f62782e6a732e6f72672f6173736574732f6d6f62782e706e67"
 			alt="mobX"
 			width="40"
 			height="40"
