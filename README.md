@@ -17,6 +17,8 @@ I have expert knowledge and experience in building complex, modern and responsiv
 
 ### [Certifications](https://github.com/pavelFaraday/Certifications):
 
+- Udemy - React Complete Guide (incl Hooks, React Router, Redux)
+- Udemy - PHP Master - CMS Project (Procedural PHP)
 - freecodecamp.org - Responsive Web Design
 - freecodecamp.org - Javascript Algorithms & Data Structures
 - freecodecamp.org - Front End Development Libraries
