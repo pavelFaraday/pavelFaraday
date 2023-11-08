@@ -17,7 +17,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 
 ### [Certifications](https://github.com/pavelFaraday/Certifications):
 
-
+- Udemy - Advanced Laravel 10 with CRUD 2023
 - Udemy - React Complete Guide (incl Hooks, React Router, Redux)
 - Udemy - Build eCommerce websites with WordPress & WooCommerce
 - Udemy - PHP OOP: Object Oriented Programming with Project
