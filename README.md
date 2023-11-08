@@ -12,7 +12,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 ### Skills & Experiences: 
 
 * REACT / Context API / REDUX / REDUX Toolkit / MobX / Next.js / TypeScript ⚛️
-* PHP / MySQL 💾 
+* PHP / MySQL / Laravel 💾 
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Material UI 💻
 
 ### [Certifications](https://github.com/pavelFaraday/Certifications):
