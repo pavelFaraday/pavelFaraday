@@ -157,7 +157,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>  <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>
 
 
 
