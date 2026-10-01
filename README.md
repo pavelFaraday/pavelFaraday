@@ -1,164 +1,96 @@
 ![Fulltack Web Developer](https://miro.medium.com/v2/resize:fit:1400/0*YJuvTixhSq-JppKv)
 
 
-
 <img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# Hi there 👋, I am Giorgi Epitashvili
-## Fullstack Web Developer
-
-I have expert knowledge and experience in building complex, modern and responsive friendly websites.
-
-### Skills & Experiences: 
-
-* REACT / Context API / REDUX / REDUX Toolkit / MobX / Next.js / TypeScript ⚛️
-* PHP / MySQL / Laravel 💾 
-* HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Material UI 💻
-
-### [Certifications](https://github.com/pavelFaraday/Certifications):
-
-- Udemy - Advanced Laravel 10 with CRUD 2023
-- Udemy - React Complete Guide (incl Hooks, React Router, Redux)
-- Udemy - Build eCommerce websites with WordPress & WooCommerce
-- Udemy - PHP OOP: Object Oriented Programming with Project
-- Udemy - PHP Master - CMS Project (Procedural PHP)
-- freecodecamp.org - Responsive Web Design
-- freecodecamp.org - Javascript Algorithms & Data Structures
-- freecodecamp.org - Front End Development Libraries
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="pavelfaraday" /> </p>
-
-<p align="left"></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-			alt="html5"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-			alt="css3"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a
-		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-		target="_blank"
-		rel="noreferrer"
-	>
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			alt="javascript"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-			alt="bootstrap"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-		<img 
-		     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-		     alt="tailwind" 
-		     width="40" 
-		     height="40"/> 
-	</a>
-	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-			alt="sass"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="react"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-			alt="redux"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://nextjs.org/" target="_blank">
-		<img
-		     src="https://profilinator.rishav.dev/skills-assets/nextjs.png" 
-		     alt="NextJS"
-		     width="40" 
-		     height="40"
-		/>
-	</a>  
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-		     alt="typescript" 
-		     width="40" 
-		     height="40"/> 
-	</a>
-	<a href="https://www.php.net" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-			alt="php"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-			alt="mysql"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-			alt="git"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-			alt="photoshop"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-			alt="figma"
-			width="40"
-			height="40"
-		/>
-	</a>
-	
-</p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>
 
 
 
 
+<h1 align="center">Giorgi Epitashvili</h1>
+
+<p align="center">
+  <strong>Senior WordPress Developer &amp; Architect</strong><br>
+  Custom WordPress platforms · Gutenberg / React · Multisite · WooCommerce
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1KBti6iN4uQ-ci6dr7pF0VT7nSHfiOxqL/view?usp=sharing">Project Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/giorgi-epitashvili/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:devstudio.corp@gmail.com">Email</a>
+</p>
+
+---
+
+## About
+
+I build and evolve WordPress platforms for enterprise teams, consumer brands, e-commerce, healthcare, and education.
+
+With **8+ years of experience** and **33 documented projects**, my work spans technical discovery, architecture, custom development, integrations, and production delivery. I focus on maintainable systems, reusable content architecture, performance, accessibility, and reliable releases.
+
+Based in **Tbilisi, Georgia**, with project experience across the USA, Canada, the UK, Europe, and Japan.
+
+## Engineering Focus
+
+- **Custom WordPress development:** PHP themes and plugins, WordPress APIs, REST endpoints, custom admin functionality, and third-party integrations.
+- **Reusable content systems:** Gutenberg/React blocks, ACF, custom post types, taxonomies, and modular Divi/Elementor components.
+- **Multisite and multilingual architecture:** Shared templates, localized content, multilingual routing, and editorial workflows across regional websites.
+- **Commerce and learning platforms:** WooCommerce, Tutor LMS, payment integrations, memberships, gated content, and customer and learner journeys.
+
+## Selected Project Work
+
+Selected contributions from engagements with **Balidea**, **CyberHull**, and **MC-Zero.One**. Each description reflects my scope of work within the project.
+
+| Project | My contribution |
+| --- | --- |
+| [Braun Healthcare](https://www.braunhealthcare.com/) | Architected reusable WordPress Multisite templates, ACF blocks, multilingual routing, and editorial controls; integrated search, retailer, translation, consent, and analytics services. |
+| [Nippon Gases](https://www.nippongases.com/) | Implemented reusable theme components across a multisite environment; supported multilingual content, navigation, maps, analytics, performance improvements, and release QA. |
+| [Hydro Flask UK](https://www.hydroflask.com/gb) | Built modular content architecture with custom post types, ACF blocks, and dynamic loops; implemented advanced search, retailer links, localization, performance, and accessibility improvements. |
+| [NOXtec](https://www.noxtecdevelopment.com/) | Extended a custom WordPress theme with reusable templates and ACF components; delivered document search and filtering, location and contact modules, and mobile navigation improvements. |
+| [Rapid Brewer](https://rapidbrewer.com/) | Built the website from scratch using a custom Astra child theme and Elementor Pro; delivered branded templates, product customization, checkout, payment integrations, analytics, and cross-device QA. |
+| [Kathrin Knispel](https://kathrin-knispel.de/) / [Self-Awareness](https://self-awareness.love/) | Delivered WooCommerce and Tutor LMS functionality across learning platforms, including gated courses, payment and enrollment flows, multilingual access, learner dashboards, and administrator training. |
+
+Additional portfolio work includes **Helen of Troy, Hot Tools, Revlon, PUR, Honeywell, Vicks, and OXO**.
+
+[Explore the full project portfolio →](https://drive.google.com/file/d/1KBti6iN4uQ-ci6dr7pF0VT7nSHfiOxqL/view?usp=sharing)
+
+## Technical Toolkit
+
+| Area | Technologies and tools |
+| --- | --- |
+| Languages & front end | PHP, JavaScript, TypeScript, React, HTML5, CSS/SCSS, jQuery |
+| WordPress & platforms | WordPress APIs, Gutenberg, ACF, Multisite, WooCommerce, Tutor LMS, Divi, Elementor |
+| Localization | WPML, Polylang, TranslatePress, Smartling |
+| APIs & integrations | REST APIs, GA4, GTM, PriceSpider, TrustArc, SearchIQ, OpenAI API |
+| Development & delivery | Git, GitHub/GitLab/Bitbucket, DDEV, Docker, Composer, npm, WP-CLI, CI/CD |
+
+## Delivery & Quality
+
+My work extends beyond implementation: Core Web Vitals, accessibility, technical SEO, security, cross-browser testing, migrations, and controlled releases across local, staging, and production environments.
+
+I collaborate with design, QA, content, marketing, security, and business teams, and provide technical documentation, handover, and post-launch support.
+
+**Additional QA automation experience:** Java, Selenium WebDriver, Selenide, Page Object Model, REST Assured, and Allure reporting.
+
+## Teaching
+
+Alongside development, I teach **WordPress & E-Commerce at Oned.ge**, helping entrepreneurs and aspiring professionals plan, build, launch, and manage WordPress and WooCommerce businesses through practical, project-based learning.
+
+<details>
+<summary><strong>Selected Certifications</strong></summary>
+
+- [Full WordPress Theme & Plugin Development With Code](https://www.udemy.com/certificate/UC-ad63f711-ba6c-4c38-92b1-18954c59cdcb/)
+- [WordPress Gutenberg Block Development with React.js](https://www.udemy.com/certificate/UC-fea93867-bdca-4807-88ce-154888bcdf24/)
+- [PHP OOP: Object-Oriented Programming + Project](https://www.udemy.com/certificate/UC-4b19fdff-4240-466d-8d65-2eceddd9a45f/)
+- [eCommerce Project with WordPress & WooCommerce](https://www.udemy.com/certificate/UC-71b6cc5e-84cb-4bae-950e-8b30c96d8f35/)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/giorgi_epitashvili_georgia/javascript-algorithms-and-data-structures)
+- [PHP Booster Certification](https://www.linkedin.com/learning/certificates/a5bb08448fabf65ecdb63c4984e2e0a7a68572358b4961791b7dd9f7e7ee390a)
+
+</details>
+
+---
+
+**Let's connect:** [Email](mailto:devstudio.corp@gmail.com) · [LinkedIn](https://www.linkedin.com/in/giorgi-epitashvili/)
