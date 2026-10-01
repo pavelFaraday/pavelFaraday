@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1KBti6iN4uQ-ci6dr7pF0VT7nSHfiOxqL/view?usp=sharing">Project Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/giorgi-epitashvili/">LinkedIn</a>
   &nbsp;·&nbsp;
