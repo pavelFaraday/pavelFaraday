@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/giorgi-epitashvili/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:devstudio.corp@gmail.com">Email</a>
