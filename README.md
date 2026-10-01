@@ -1,5 +1,5 @@
-![Fulltack Web Developer](https://miro.medium.com/v2/resize:fit:1400/0*YJuvTixhSq-JppKv)
 <p><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/0*YJuvTixhSq-JppKv" alt="pavelfaraday" /></p>
+
 <h1 align="center">Giorgi Epitashvili</h1>
 
 <p align="center">
