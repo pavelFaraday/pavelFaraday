@@ -1,13 +1,5 @@
 ![Fulltack Web Developer](https://miro.medium.com/v2/resize:fit:1400/0*YJuvTixhSq-JppKv)
 
-
-<img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>
-
-
-
-
 <h1 align="center">Giorgi Epitashvili</h1>
 
 <p align="center">
@@ -43,19 +35,6 @@ Based in **Tbilisi, Georgia**, with project experience across the USA, Canada, t
 ## Selected Project Work
 
 Selected contributions from engagements with **Balidea**, **CyberHull**, and **MC-Zero.One**. Each description reflects my scope of work within the project.
-
-| Project | My contribution |
-| --- | --- |
-| [Braun Healthcare](https://www.braunhealthcare.com/) | Architected reusable WordPress Multisite templates, ACF blocks, multilingual routing, and editorial controls; integrated search, retailer, translation, consent, and analytics services. |
-| [Nippon Gases](https://www.nippongases.com/) | Implemented reusable theme components across a multisite environment; supported multilingual content, navigation, maps, analytics, performance improvements, and release QA. |
-| [Hydro Flask UK](https://www.hydroflask.com/gb) | Built modular content architecture with custom post types, ACF blocks, and dynamic loops; implemented advanced search, retailer links, localization, performance, and accessibility improvements. |
-| [NOXtec](https://www.noxtecdevelopment.com/) | Extended a custom WordPress theme with reusable templates and ACF components; delivered document search and filtering, location and contact modules, and mobile navigation improvements. |
-| [Rapid Brewer](https://rapidbrewer.com/) | Built the website from scratch using a custom Astra child theme and Elementor Pro; delivered branded templates, product customization, checkout, payment integrations, analytics, and cross-device QA. |
-| [Kathrin Knispel](https://kathrin-knispel.de/) / [Self-Awareness](https://self-awareness.love/) | Delivered WooCommerce and Tutor LMS functionality across learning platforms, including gated courses, payment and enrollment flows, multilingual access, learner dashboards, and administrator training. |
-
-Additional portfolio work includes **Helen of Troy, Hot Tools, Revlon, PUR, Honeywell, Vicks, and OXO**.
-
-[Explore the full project portfolio →](https://drive.google.com/file/d/1KBti6iN4uQ-ci6dr7pF0VT7nSHfiOxqL/view?usp=sharing)
 
 ## Technical Toolkit
 
@@ -94,3 +73,6 @@ Alongside development, I teach **WordPress & E-Commerce at Oned.ge**, helping en
 ---
 
 **Let's connect:** [Email](mailto:devstudio.corp@gmail.com) · [LinkedIn](https://www.linkedin.com/in/giorgi-epitashvili/)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>
+
